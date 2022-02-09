@@ -1,4 +1,4 @@
-![Profile Banner](https://user-images.githubusercontent.com/78129676/147305350-e7d89a6d-ed07-489b-8cd1-4df25e7756e7.png)
+![Profile Banner](https://user-images.githubusercontent.com/78129676/153097448-99c98939-1ceb-4d09-a14b-ef06ddbf4435.png)
 ### Hi there 👋
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Frontend Team

@@ -26,3 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+
+<hr>
+
+[![wakatime](https://wakatime.com/badge/user/6d298b11-9c27-4dc7-a4fb-6596c8ccc6c5.svg)](https://wakatime.com/@6d298b11-9c27-4dc7-a4fb-6596c8ccc6c5)

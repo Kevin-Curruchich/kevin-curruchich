@@ -3,7 +3,9 @@
 I am a Software Engieneer passionate about using technology to create impactful solutions 💻
 I thrive in dynamic environments, continuously learning and contributing to innovative projects. 🪴
 My goal is to work with startups in Latin America to drive meaningful change through technology. 🚀
+
 <hr>
+
 - 🌱 I’m currently learning Backend Technologies like NestJS
 - 👯 I’m looking to collaborate on Frontend Team
 - 📫 You can reach me with the links below

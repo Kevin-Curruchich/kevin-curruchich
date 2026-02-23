@@ -1,10 +1,8 @@
 <div align="center">
 
-![Profile Banner](https://user-images.githubusercontent.com/78129676/153097448-99c98939-1ceb-4d09-a14b-ef06ddbf4435.png)
-
 # Hi there, I'm Kevin Curruchich 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;Frontend+%26+Backend+Developer;Open+Source+Enthusiast+%F0%9F%8C%B1;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   Passionate about using technology to create impactful solutions.<br/>
@@ -28,17 +26,6 @@
 - 🌱 Currently exploring cloud infrastructure and AI-powered integrations
 - 👯 Open to collaborating on impactful open-source and startup projects
 - 🎯 Goal: leverage technology to empower Latin American startups
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kevin-Curruchich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Curruchich&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Curruchich&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
 
